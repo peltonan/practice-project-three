@@ -1,6 +1,6 @@
 # Practice Project Three (Learning React)
 
-Practicing using React Router.
+Multi-Page SPA with React Router.
 
 ## NOTE!
 
