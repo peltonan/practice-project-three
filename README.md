@@ -7,4 +7,6 @@ Multi-Page SPA with React Router.
 App does not load! (No error messages.)
 
 Tried using teachers code, from Github, that didn't work either.
-Contacting teacher. Project on hold for now.
+Contacting teacher. 
+
+Project on hold for now.
